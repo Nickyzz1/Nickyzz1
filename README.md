@@ -7,22 +7,18 @@
 - 🌱 I’m currently learning : Java
 - 📫 How to reach me: (41) 99774-4814
 -->
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.google.com/search?sca_esv=6dc0ae32fc817d32&sca_upv=1&rlz=1C1GCEA_enBR1065BR1065&q=caf%C3%A9&uds=ADvngMjwV7oRixuhYqXyVNkuxX0Tw3LZKS-4EB5g7lbjWdqsfFz5VQq2DDd2TwHXlgrYCMdW099qTJtBs1kK6CE-R7dyKxXq9r1JbKF2fP97aThAcAJT2Aq-FCvCyfBCyh1_CY3_yxEujR0MYvISpGZ2dMHGXnpOXmGr1ojXiPFqJVcvCpMmv5Ry7LJYKkZgLRzXkLRRE0hn0UVeeSaOZrO7B0reTf51e0WXEgKqQ28RSyTZnzUmlnV8qzJL4DMTWhGWkV3PDC_d5FRqaSE-JCH1CVpNsrUWM51caeaBYR7j_D1ArQG9-5j_A3wGBvdsHVJM4ocdc5tG&udm=2&prmd=sivmnbtz&sa=X&ved=2ahUKEwizs8i3-7CGAxWUpZUCHbTnAwIQtKgLegQICxAB&biw=1920&bih=953&dpr=1#vhid=kHvcWz7j1q-lbM&vssid=mosaic" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://avatars.githubusercontent.com/u/160642381?v=4" />
 &nbsp;&nbsp;&nbsp;
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Eu</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Nickyzz1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Nickyzz1&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Nickyzz1&show_icons=true&theme=radical&layout=compact" />
+</div>
 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
+&nbsp;
+&nbsp;
 
 
 ## My Skills
@@ -37,14 +33,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
-
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
 #### Studying in this moment:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 #### Databases:
 
