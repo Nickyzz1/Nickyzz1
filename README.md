@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning : Java
 - 📫 How to reach me: (41) 99774-4814
 -->
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.google.com/search?sca_esv=6dc0ae32fc817d32&sca_upv=1&rlz=1C1GCEA_enBR1065BR1065&q=caf%C3%A9&uds=ADvngMjwV7oRixuhYqXyVNkuxX0Tw3LZKS-4EB5g7lbjWdqsfFz5VQq2DDd2TwHXlgrYCMdW099qTJtBs1kK6CE-R7dyKxXq9r1JbKF2fP97aThAcAJT2Aq-FCvCyfBCyh1_CY3_yxEujR0MYvISpGZ2dMHGXnpOXmGr1ojXiPFqJVcvCpMmv5Ry7LJYKkZgLRzXkLRRE0hn0UVeeSaOZrO7B0reTf51e0WXEgKqQ28RSyTZnzUmlnV8qzJL4DMTWhGWkV3PDC_d5FRqaSE-JCH1CVpNsrUWM51caeaBYR7j_D1ArQG9-5j_A3wGBvdsHVJM4ocdc5tG&udm=2&prmd=sivmnbtz&sa=X&ved=2ahUKEwizs8i3-7CGAxWUpZUCHbTnAwIQtKgLegQICxAB&biw=1920&bih=953&dpr=1#vhid=kHvcWz7j1q-lbM&vssid=mosaic" />
 &nbsp;&nbsp;&nbsp;
 
 
