@@ -18,6 +18,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nickyzz1&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nickyzz1)](https://git.io/streak-stats)
                                          
 </div>
