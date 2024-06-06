@@ -18,6 +18,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nickyzz1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nickyzz1&theme=dracula)](https://git.io/streak-stats)
                                          
 </div>
