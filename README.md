@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> GitHub Profilem </title>
 </head>
 <body>
     <img width="100%" src="http://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Nicolle%20Rodrigues%20Siqueira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
