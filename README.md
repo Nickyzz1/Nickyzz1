@@ -12,7 +12,7 @@
 <div align="center">
     <a href="https://github.com/Nickzyzz1">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nickyzz1&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff4c4c&icon_color=ff1a1a&text_color=ffffff&border_color=ff0000"/>
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonMn&layout=compact&hide_border=true&langs_count=7&theme=default&bg_color=0d1117&title_color=ff4c4c&icon_color=ff1a1a&text_color=ffffff&border_color=ff0000"/>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickyzz1&layout=compact&hide_border=true&langs_count=7&theme=default&bg_color=0d1117&title_color=ff4c4c&icon_color=ff1a1a&text_color=ffffff&border_color=ff0000"/>
     </a>
 </div>
 
