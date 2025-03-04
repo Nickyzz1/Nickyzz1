@@ -7,7 +7,7 @@
 <body>
     <img width="100%" src="http://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Nicolle%20Rodrigues%20Siqueira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nicolle;I'm+18+Years+Old;I'm+From+Brazil;Welcome!:%29)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nicolle;I'm+19+Years+Old;I'm+From+Brazil;Welcome!:%29)](https://git.io/typing-svg)
 
 <div align="center">
     <a href="https://github.com/Nickzyzz1">
